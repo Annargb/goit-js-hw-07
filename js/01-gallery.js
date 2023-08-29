@@ -55,11 +55,3 @@ function onCardClick(event) {
     }
   }
 }
-
-// document.addEventListener('keydown', modalClose);
-// function modalClose(event) {
-//   console.log(event.code);
-//   if (event.code === 'Escape') {
-//     instance.close();
-//   }
-// }
